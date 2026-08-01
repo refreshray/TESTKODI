@@ -1,1 +1,39 @@
+#EXTM3U url-tvg="https://github.com/refreshray/epg-auto/raw/refs/heads/main/TV_epg.xml"
 
+
+#EXTINF:-1 group-title="THAILAND" tvg-id="ch101" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 group-title="THAILAND" tvg-id="ch109" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 group-title="THAILAND" tvg-id="ch103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0qjpA2Y456EYo8uQ-LDRwVDhoeNOzcr7A9pYCiTlTQ&s=10",
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="ch104" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8joZbDjtfl8PIraa8YLaNyXhTnLTrK3MpV-mkVi5mw&s",
+https://hls.iptv-th.workers.dev/live/72/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="ch105" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWZ64XyNvnOXtjn6dMAimZJ703-0r3MmbijbaiDvYyQ&s=10",
+https://hls.iptv-th.workers.dev/live/71/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="ch106" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWYMznuUWia_0SKPxHSIRnIQgeME2332gb5IMtERh6Q&s=10",
+https://hls.iptv-th.workers.dev/live/65/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="ch107" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YKzJfRmDCd_NQcOOfRtiwYJphp4AWIvev9JBFfeOHQ&s=10",
+https://hls.iptv-th.workers.dev/live/62/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="ch110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="369727" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",
+https://hls.iptv-th.workers.dev/live/33/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="369719" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUMJAyBQDVQkjVDnodkH7okOoWxhH2Sk0LdrmeXwOUg&s",
+https://hls.iptv-th.workers.dev/live/32/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
