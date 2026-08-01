@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Live71" tvg-name="Channel 71" group-title="Thai Channels", ช่อง HBO
-https://hls.iptv-th.workers.dev/live/71/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8joZbDjtfl8PIraa8YLaNyXhTnLTrK3MpV-mkVi5mw&s",ช่อง HBO Signature
 https://hls.iptv-th.workers.dev/live/72/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://iptv-th.workers.dev/&Origin=https://iptv-th.workers.dev
