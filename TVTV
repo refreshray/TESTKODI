@@ -1,17 +1,37 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="MOVIE_1" tvg-name="Cinema HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png" group-title="Movies", MonoPlus
+#EXTINF:-1 tvg-id="" tvg-name="Cinema HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png" group-title="Movies", MonoPlus
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=KID:072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
-#EXTINF:-1 tvg-id="MOVIE_1" tvg-name="Cinema HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134649006712.png" group-title="Movies", Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinema HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134649006712.png" group-title="Movies", Cinemax
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=KID:f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ช่องทีวีดิจิตอล", MonoPlus 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily 1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง", Cinemax 1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
